@@ -1,12 +1,12 @@
 # SSL Utility Suite 🛡️
 
-Welcome to **SSL Utility Suite**, a comprehensive toolkit I've designed to simplify the processes of SSL certificate creation and troubleshooting. This suite is your go-to resource for managing SSL/TLS certificates, whether you're quickly verifying a certificate's validity, fetching issuer details, or creating new certficates, extracting PFX or packing new ones. Should cover most use-cases.
+Welcome to **SSL Utility Suite**, a comprehensive toolkit I've put together to simplify the processes of SSL certificate creation and troubleshooting. This suite is your go-to resource for managing SSL/TLS certificates, whether you're quickly verifying a certificate's validity, fetching issuer details, or creating new certficates, extracting PFX or packing new ones; It should cover most use-cases.
 
-![SSL Utility Suite](https://raw.githubusercontent.com/zhk3r/stash/main/image.png)
+![SSL Utility Suite](https://raw.githubusercontent.com/anothervillain/ssl-utils/refs/heads/main/ssl-terminal.png?token=GHSAT0AAAAAADTGX7XDOVLWEFUXRLHNCYGY2LHVHBQ)
 
 ## 🚀 Getting Started
 
-This utility suite is built to run on Ubuntu-22.04 on WSL, ensuring broad compatibility and ease of use.
+This utility suite is built to run on Ubuntu-22.04 on WSL.
 
 ### Dependencies
 
@@ -18,7 +18,7 @@ sudo apt install -y git whois openssl dig curl sslscan python3 python3-pip ca-ce
 
 #### Installation
 
-Clone this repository to your local machine to get started.
+Clone this repository to your machine to get started.
 
 ```bash
 git clone git@gitlab.group.one:christian-mathias.moen/ssl-utils.git
@@ -36,7 +36,7 @@ Ensure executability of the scripts within the suite:
 chmod +x -R ssl-utils
 ```
 
-##### Stay Updated by running the update script periodically:
+##### Stay updated by running the update script periodically:
 
 ```bash
 cd ssl-utils && ./update.sh
@@ -85,7 +85,7 @@ performance,   p      = The openssl s_time command measures the time taken for h
 
 🤝 **Contributing**
 
-Any contributions you make are greatly appreciated. If you wish to contribute, please contact me on Slack.
+Any contributions you make are appreciated.
 
 📜 **License**
 
@@ -93,4 +93,4 @@ This project is proudly offered without licensing, free for personal and commerc
 
 📈 **Project Status**
 
-**SSL Utility Suite** is currently in development, with new features and improvements being added regularly. Stay tuned for updates and feel free to contribute!
+**SSL Utility Suite** is periodically in development, with new features and improvements being added sometimes.
