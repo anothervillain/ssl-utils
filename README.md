@@ -21,7 +21,7 @@ sudo apt install -y git whois openssl dig curl sslscan python3 python3-pip ca-ce
 Clone this repository to your machine to get started.
 
 ```bash
-git clone git@gitlab.group.one:christian-mathias.moen/ssl-utils.git
+git clone git@github.com:anothervillain/ssl-utils.git
 ```
 
 Create a convenient alias for the wrapper.py script so you can invoke the commands:
