@@ -2,7 +2,7 @@
 
 Welcome to **SSL Utility Suite**, a comprehensive toolkit I've put together to simplify the processes of SSL certificate creation and troubleshooting. This suite is your go-to resource for managing SSL/TLS certificates, whether you're quickly verifying a certificate's validity, fetching issuer details, or creating new certficates, extracting PFX or packing new ones; It should cover most use-cases.
 
-![SSL Utility Suite](https://raw.githubusercontent.com/anothervillain/ssl-utils/refs/heads/main/ssl-terminal.png?token=GHSAT0AAAAAADTGX7XDOVLWEFUXRLHNCYGY2LHVHBQ)
+![SSL Utility Suite](https://raw.githubusercontent.com/anothervillain/ssl-utils/refs/heads/main/ssl-terminal.png)
 
 ## 🚀 Getting Started
 
